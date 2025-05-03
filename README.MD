@@ -108,4 +108,4 @@ Contributions are welcome! The primary area for expansion is the `TASK_IO_MAP` d
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file (if you choose to add one) for details.
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for details.
