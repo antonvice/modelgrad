@@ -1,0 +1,34 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.so
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Log files
+*.log
+
+# Hugging Face cache (IMPORTANT!)
+.cache/huggingface/
+
+.env

@@ -1,0 +1,29 @@
+# Git specific files
+.git/
+.gitignore
+.dockerignore
+
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Local cache (including HF cache if run locally first)
+.cache/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+
+# README (not needed in image)
+README.md
+
